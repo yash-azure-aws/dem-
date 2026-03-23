@@ -1,6 +1,0 @@
-{
-	"name": "demo-onpremtoazure",
-	"properties": {
-		"type": "SelfHosted"
-	}
-}
